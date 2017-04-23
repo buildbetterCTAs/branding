@@ -24,12 +24,6 @@ _Currently used for the favicon for [app.responsivectabuilder.com](https://app.r
 
 ### Primary Color Palette
 
-<div style="display: flex; margin-bottom: 16px;">
-  <div style="border-radius: 3px; height: 56px; width: 96px; background: #0E589A; display: flex; align-items: center; justify-content: center; color: #fff; margin-right: 16px;">Yale</div>
-  <div style="border-radius: 3px; height: 56px; width: 96px; background: #1385E8; display: flex; align-items: center; justify-content: center; color: #fff; margin-right: 16px;">Dodger</div>
-  <div style="border-radius: 3px; height: 56px; width: 96px; background: #48A7F9; display: flex; align-items: center; justify-content: center; color: #fff; margin-right: 16px;">Picton</div>
-</div>
-
 |        |Yale              |Dodger              |Picton             |
 |-------:|:-----------------|:-------------------|:------------------|
 |**SASS**|`$color-yale`     |`$color-dodger`     |`$color-picton`    |
