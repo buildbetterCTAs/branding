@@ -1,0 +1,20 @@
+{
+  "name": "branding",
+  "version": "1.0.0",
+  "description": "> Brand assets: Logos, Colors, Typography for Responsive CTA Builder's Marketing Websitte & Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buildbetterCTAs/branding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buildbetterCTAs/branding/issues"
+  },
+  "homepage": "https://github.com/buildbetterCTAs/branding#readme"
+}
