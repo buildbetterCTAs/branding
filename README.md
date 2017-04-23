@@ -4,19 +4,19 @@
 ## Logo
 
 ### Master Logo
-![Wordmark](img/wordmark.png)
+<img src="img/wordmark.png" width="512px">
 
 _This is the combination of our CTA Shape logo with the primary font used for our header and sub header typography on our website. It is used for social media headers, promotions, and as the top section of our marketing website where the CTA Shape itself wouldn't be enough to represent our brand._
 
 ### The CTA Shape
-![Logo Shape](img/logo.png)
+<img src="img/logo.png" width="96px">
 
 _This shape is the core part of our logo, it represents the different widths of the Responsive CTA element when at different screen sizes, ultimately incorporating what we build into our brand._
 
 ### Variations
 
 #### Squircle
-![Squircle](img/squircle.png)
+<img src="img/squircle.png" width="96px">
 
 _Currently used for the favicon for [app.responsivectabuilder.com](https://app.responsivectabuilder.com) to differentiate from the standard shape used for the main [marketing website](https://www.responsivectabuilder.com)._
 
