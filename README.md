@@ -26,7 +26,7 @@ _Currently used for the favicon for [app.responsivectabuilder.com](https://app.r
 
 |        |Yale              |Dodger              |Picton             |
 |-------:|:-----------------|:-------------------|:------------------|
-|**SASS**|`$color-yale`     |`$color-dodger`     |`$color-picton`    |
+|**SASS**|`$yale`           |`$dodger`           |`$picton`          |
 |**HEX** |`#0E589A`         |`#1385E8`           |`#48A7F9`          |
 |**RGB** |`RGB(14, 88, 154)`|`RGB(19, 133, 232)` |`RGB(72, 167, 249)`|
 
